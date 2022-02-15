@@ -1,0 +1,16 @@
+iRepair Bootstrap site notes:
+
+> colors removed: #ffc800 & #cca000 (ugly ass yellows)
+> used Supreme font logo for nav bar (fontmeme.com)
+	>> #DA2727 & #B01919 (for buttons)
+> 6 important things we do:
+	1. screens
+	2. data
+	3. ultrasonic clean/water damage
+	4. computer upgrades
+	5. consoles
+	6. accessory repair - apple watch/fitbit
+> ADD SECTION FOR DIAGNOSIS FOR $35 GOES TOWARD REPAIR
+> make sure CAPS words are <strong>, <em> or a different color at least
+> portfolio pics are 600x450
+> team headshots are 500x500
