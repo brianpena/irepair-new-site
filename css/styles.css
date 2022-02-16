@@ -11783,3 +11783,15 @@ section#contact form#contactForm :-ms-input-placeholder {
 	font-weight: bold;
 	font-style: italic;
 }
+
+.location-container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+.location-icons {
+	display: flex;
+	flex-direction: row;
+}

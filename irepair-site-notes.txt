@@ -1,5 +1,6 @@
 iRepair Bootstrap site notes:
 
+02/15
 > colors removed: #ffc800 & #cca000 (ugly ass yellows)
 > used Supreme font logo for nav bar (fontmeme.com)
 	>> #DA2727 & #B01919 (for buttons)
@@ -14,3 +15,7 @@ iRepair Bootstrap site notes:
 > make sure CAPS words are <strong>, <em> or a different color at least
 > portfolio pics are 600x450
 > team headshots are 500x500
+
+02/16
+>> remove team section
+>> replacing team with google maps integration for each location (including phone # & address
