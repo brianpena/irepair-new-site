@@ -1,4 +1,4 @@
-iRepair Bootstrap site notes:
+iRepair site notes:
 
 02/15
 > colors removed: #ffc800 & #cca000 (ugly ass yellows)
@@ -17,5 +17,10 @@ iRepair Bootstrap site notes:
 > team headshots are 500x500
 
 02/16
->> remove team section
->> replacing team with google maps integration for each location (including phone # & address
+> removed team section
+> replaced team with google maps integration for each location (including phone # & address)
+
+02/28
+> added google review links for each store
+
+>> need to add email links
