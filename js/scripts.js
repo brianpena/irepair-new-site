@@ -50,15 +50,4 @@ window.addEventListener('DOMContentLoaded', event => {
             }
         });
     });
-
-
-		$(document).ready(function(){
-	  $(".dropdown").on("hide.bs.dropdown", function(){
-		$(".nav-link").html('Dropdown <span class="caret"></span>');
-	  });
-	  $(".dropdown").on("show.bs.dropdown", function(){
-		$(".nav-link").html('Dropdown <span class="caret caret-up"></span>');
-	  });
-	});
-
 });
