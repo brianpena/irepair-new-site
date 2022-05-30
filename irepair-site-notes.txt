@@ -24,3 +24,15 @@ iRepair site notes:
 > added google review links for each store
 
 >> need to add email links
+
+----------
+05/26
+SITE GOES LIVE AT THE END OF THE MONTH.
+
+> add a GALLERY section for each store. maybe hyperlink from store name
+>> GALLERIES will be carousel with popout modals. beneath it, location/contact
+
+> need to login to HostGator & check for email forwarding
+> make sure all pages load properly
+> fix the goddamn ABOUT dropdown
+> clean up site code (page anchors, etc)
