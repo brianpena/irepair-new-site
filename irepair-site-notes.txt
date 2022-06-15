@@ -35,4 +35,8 @@ SITE GOES LIVE AT THE END OF THE MONTH.
 > need to login to HostGator & check for email forwarding
 > make sure all pages load properly
 > fix the goddamn ABOUT dropdown
-> clean up site code (page anchors, etc)
+> clean up site code
+
+05/26
+> fix links between pages. double check all anchor tags
+> set up email
